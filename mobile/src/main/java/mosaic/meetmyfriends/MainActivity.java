@@ -16,16 +16,17 @@ public class MainActivity extends Activity {
 
 
 
-        /*MapUtils map = new MapUtils(this);
+        MapUtils map = new MapUtils(this);
         GpsUtils mGps = new GpsUtils(this);
 
         double lat = mGps.getLatitude();
         double lng = mGps.getLongitude();
 
-        map.setLatLng(lat, lng);
+        //Random comment
+        map.setLatLngFromAddress("601 Townsend Street San Francisco CA United States 94116");
         map.createMap();
         map.placeMarker();
-    */
+
 
     }
 

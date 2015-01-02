@@ -60,7 +60,7 @@ public class MapUtils implements OnMapReadyCallback {
     }
 
     //To-Do: Let the user to select the Address instead of picking up the first one
-    public void setLatLangFromAddress(String address){
+    public void setLatLngFromAddress(String address){
         Geocoder geocoder = new Geocoder(activity);
         List<Address> addresses;
         try {
