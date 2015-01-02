@@ -14,7 +14,9 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        MapUtils map = new MapUtils(this);
+
+
+        /*MapUtils map = new MapUtils(this);
         GpsUtils mGps = new GpsUtils(this);
 
         double lat = mGps.getLatitude();
@@ -23,7 +25,7 @@ public class MainActivity extends Activity {
         map.setLatLng(lat, lng);
         map.createMap();
         map.placeMarker();
-
+    */
 
     }
 

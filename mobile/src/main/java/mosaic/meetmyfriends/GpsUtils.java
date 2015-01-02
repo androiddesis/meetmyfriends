@@ -11,24 +11,17 @@ import android.os.Bundle;
 import android.provider.Settings;
 import android.util.Log;
 
-/**
- * Created by jumde on 12/29/14.
- */
+
 public class GpsUtils implements LocationListener{
     private final Context mContext;
 
-    // flag for GPS status
     public boolean isGPSEnabled = false;
-
-    // flag for network status
     boolean isNetworkEnabled = false;
-
-    // flag for GPS status
     boolean canGetLocation = false;
 
-    Location location; // location
-    double latitude; // latitude
-    double longitude; // longitude
+    Location location;
+    double latitude;
+    double longitude;
 
     // The minimum distance to change Updates in meters
     private static final long MIN_DISTANCE_CHANGE_FOR_UPDATES = 1; // 10 meters
