@@ -1,4 +1,4 @@
-package mosaic.meetmyfriends;
+package mosaic.meetmyfriends.UserRegistration;
 
 import android.content.Context;
 import android.support.v7.app.ActionBarActivity;
@@ -17,6 +17,8 @@ import com.squareup.okhttp.OkHttpClient;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import mosaic.meetmyfriends.R;
+import mosaic.meetmyfriends.UserRegistrationInterface;
 import retrofit.RestAdapter;
 import retrofit.client.OkClient;
 import retrofit.client.Response;
