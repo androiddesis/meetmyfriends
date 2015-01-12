@@ -9,6 +9,8 @@ import android.view.View;
 import android.widget.Button;
 import android.view.View.OnClickListener;
 
+import mosaic.meetmyfriends.UserRegistration.UserRegistration;
+
 
 public class MainActivity extends Activity {
 

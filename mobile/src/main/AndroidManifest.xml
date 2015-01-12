@@ -34,7 +34,7 @@
             android:value="AIzaSyCO5eZkRPAn40NzCkZPR1OYbUN9x0nNMMY" />
 
         <activity
-            android:name=".UserRegistration"
+            android:name=".UserRegistration.UserRegistration"
             android:label="@string/title_activity_user_registration"
             android:parentActivityName=".MainActivity" >
             <meta-data

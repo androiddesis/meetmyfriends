@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jumde/AndroidStudioProjects/MeetMyFriends/mobile/build/intermediates/exploded-aar/com.couchbase.lite/couchbase-lite-android/1.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="adcc7c8d67dd73b6666a85ac8d0d7a9afcd1564d">
+        <dex dex="/Users/jumde/AndroidStudioProjects/MeetMyFriends/mobile/build/intermediates/pre-dexed/debug/classes-3506fb2e8b652517d7174a634388d5efd03a94c0.jar" />
+    </item>
+    <item
+        jar="/Users/jumde/.gradle/caches/modules-2/files-2.1/com.couchbase.lite/couchbase-lite-java-core/1.0.2/fe2b420eace015de4b639de21ef8814ab749475e/couchbase-lite-java-core-1.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe2b420eace015de4b639de21ef8814ab749475e">
+        <dex dex="/Users/jumde/AndroidStudioProjects/MeetMyFriends/mobile/build/intermediates/pre-dexed/debug/couchbase-lite-java-core-1.0.2-2b6f009428df3d9c8a0312a2d58e5c2712969040.jar" />
+    </item>
+    <item
+        jar="/Users/jumde/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/jumde/AndroidStudioProjects/MeetMyFriends/mobile/build/intermediates/pre-dexed/debug/gson-2.3.1-0e2a16574328bfef4c108e2269b6af98284d0f2a.jar" />
+    </item>
+    <item
+        jar="/Users/jumde/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.0.1/39eff75ddcb987ff65888361a29f489c178429a3/okio-1.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="39eff75ddcb987ff65888361a29f489c178429a3">
+        <dex dex="/Users/jumde/AndroidStudioProjects/MeetMyFriends/mobile/build/intermediates/pre-dexed/debug/okio-1.0.1-81b4b7cd1f891fddcaad7b699a9dadc93af953e2.jar" />
+    </item>
+    <item
+        jar="/Users/jumde/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/jumde/AndroidStudioProjects/MeetMyFriends/mobile/build/intermediates/pre-dexed/debug/retrofit-1.9.0-f87eb822f147175e1eeb11a1dec2f2e87b6fbebb.jar" />
+    </item>
+    <item
+        jar="/Users/jumde/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/jumde/AndroidStudioProjects/MeetMyFriends/mobile/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-0b0c18fdf93348e84d95d28448709e4d1e14662a.jar" />
+    </item>
+    <item
+        jar="/Users/jumde/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.2/95400a7922ce75383866eb72f6ef4a7897923945/jackson-mapper-asl-1.9.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95400a7922ce75383866eb72f6ef4a7897923945">
+        <dex dex="/Users/jumde/AndroidStudioProjects/MeetMyFriends/mobile/build/intermediates/pre-dexed/debug/jackson-mapper-asl-1.9.2-72973a9cdd6194c5fa0a676d20a7f1b6651a0b9b.jar" />
+    </item>
+    <item
+        jar="/Users/jumde/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.0.0/afe8399d352713b66e597e9670c741d1e60ae923/okhttp-urlconnection-2.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="afe8399d352713b66e597e9670c741d1e60ae923">
+        <dex dex="/Users/jumde/AndroidStudioProjects/MeetMyFriends/mobile/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.0.0-e672def577fb3545b6e3dd78939faa733710306b.jar" />
+    </item>
+    <item
+        jar="/Users/jumde/AndroidStudioProjects/MeetMyFriends/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/jumde/AndroidStudioProjects/MeetMyFriends/mobile/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-0d2c810c3463c6a48ff6dfb2f98621359986327d.jar" />
+    </item>
+    <item
+        jar="/Users/jumde/AndroidStudioProjects/MeetMyFriends/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/jumde/AndroidStudioProjects/MeetMyFriends/mobile/build/intermediates/pre-dexed/debug/classes-38aa548bb38cb65b656fa6e992b6afb7596cc83f.jar" />
+    </item>
+    <item
+        jar="/Users/jumde/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.2/8493982bba1727106d767034bd0d8e77bc1931a9/jackson-core-asl-1.9.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8493982bba1727106d767034bd0d8e77bc1931a9">
+        <dex dex="/Users/jumde/AndroidStudioProjects/MeetMyFriends/mobile/build/intermediates/pre-dexed/debug/jackson-core-asl-1.9.2-f71cb5edfa616dbf7d3b08649ff7636ab5e111c3.jar" />
+    </item>
+    <item
+        jar="/Users/jumde/AndroidStudioProjects/MeetMyFriends/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/jumde/AndroidStudioProjects/MeetMyFriends/mobile/build/intermediates/pre-dexed/debug/classes-b574a4e95b41612b72dccd14b6d6a123983cae80.jar" />
+    </item>
+    <item
+        jar="/Users/jumde/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.0.0/4c8d1536dba3812cc1592090dc20c47a4ed3c35e/okhttp-2.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="/Users/jumde/AndroidStudioProjects/MeetMyFriends/mobile/build/intermediates/pre-dexed/debug/okhttp-2.0.0-215b44b217144cbfd61a1eff1908730d7019c395.jar" />
+    </item>
+    <item
+        jar="/Users/jumde/AndroidStudioProjects/MeetMyFriends/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/jumde/AndroidStudioProjects/MeetMyFriends/mobile/build/intermediates/pre-dexed/debug/classes-2d000096e1bb989063fd18fb54babf5c71da7e22.jar" />
+    </item>
+
+</items>
